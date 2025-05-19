@@ -9,7 +9,7 @@ Configuração testada e validada com sucesso em notebook com as seguintes espec
 | Processador            | Intel Core i5-10210U (10ª geração)       |
 | GPU integrada          | Intel UHD Graphics (iGPU)                |
 | Tela                  | 15.6" Full HD IPS LCD                    |
-| Memória RAM           | 8GB DDR4 SDRAM                           |
+| Memória RAM           | 12GB DDR4 SDRAM                           |
 | Wi-Fi / Bluetooth     | Broadcom nativa                          |
 | Touchpad              | Funcional                                |
 | HDMI                  | Funcional                                |
